@@ -3,11 +3,11 @@
  * Add your service key to the current folder.
  * Uncomment and fill in these variables.
  */
-// const projectId = 'my-project';
-// const locationId = 'global';
-// const agentId = 'my-agent';
-// const languageCode = 'en'
-// const TELEGRAM_TOKEN='1234567898:ABCdfghTtaD8dfghdfgh45sdf65467M';
+const projectId = 'my first project';
+const locationId = 'global';
+const agentId = 'constitution expert';
+const languageCode = 'en'
+const TELEGRAM_TOKEN='7255578928:AAGk33kfhlzEGoQSormxNY-5suEwo6Nj3WU';
 // const SERVER_URL='https://example.com';
 
 const structProtoToJson =
